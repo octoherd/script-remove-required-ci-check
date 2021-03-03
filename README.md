@@ -8,7 +8,7 @@
 git clone https://github.com/octoherd/script-remove-required-ci-check.git
 $ npx @octoherd/cli \
   --octoherd-token 0123456789012345678901234567890123456789 \
-  scripts/remove-required-ci-check/script.js \
+  script-remove-required-ci-check/script.js \
   "octokit/*" \
   --check "Pika CI"
 ```
