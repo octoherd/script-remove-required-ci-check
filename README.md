@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-$ npx @octoherd/script-close-renovate-dashboard-issues \
+$ npx @octoherd/script-remove-required-ci-check \
   --octoherd-token 0123456789012345678901234567890123456789 \
   script-remove-required-ci-check/script.js \
   "octokit/*" \
