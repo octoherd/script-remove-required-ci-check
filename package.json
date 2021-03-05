@@ -23,5 +23,6 @@
   },
   "bin": {
     "octoherd-script-remove-required-ci-check": "./cli.js"
-  }
+  },
+  "repository": "github:octoherd/script-remove-required-ci-check"
 }
