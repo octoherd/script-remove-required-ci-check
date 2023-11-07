@@ -1,4 +1,4 @@
-# setup renovate
+# script-remove-required-ci-check
 
 > An [octoherd](https://github.com/octoherd) script to remove a required status check from all protected branches
 
